@@ -117,10 +117,6 @@ The final dataset (`cah3.csv`) includes:
 
 ├── mysql code.sql # SQL analysis script
 
-├── Transport accidents' mortality... # Source dataset 1
-
-├── WHR25_Data_Figure_2.1v3.csv # Source dataset 2
-
 ├── Does Happiness Drive Road Safety_.pdf # Slides presentation
 
 └── README.md # Project description
