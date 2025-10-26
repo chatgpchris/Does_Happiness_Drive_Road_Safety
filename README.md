@@ -3,7 +3,7 @@
 
 **Author:** Christos Georgakakis  
 **Date:** October 2025  
-**Previous Projects:** *What_Gives_You_the_Ring* • *StoiControl*  
+**Previous Projects:** (i) *What_Gives_You_the_Ring* , (ii) *StoiControl*  
 **Tableau Public Visuals:** [Europe’s Road Safety, Happiness and Economy (2023)](https://public.tableau.com/app/profile/christos.georgakakis/viz/EuropesRoadSafetyHappinessandEconomyin2023/Sheet42#2)
 
 ---
@@ -112,8 +112,6 @@ The final dataset (`cah3.csv`) includes:
 
 ## 📦 Repository Structure
 📁 DoesHappinessDriveRoadSafety/
-
-│
 
 ├── mysql code.sql # SQL analysis script
 
