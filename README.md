@@ -61,7 +61,7 @@ SQL steps are documented in [`mysql code.sql`](mysql%20code.sql).
 ## 📊 Key Findings
 
 - **Happier countries tend to have fewer road fatalities** per million inhabitants.  
-- **Economic prosperity** (log GDP per capita) positively correlates with happiness and negatively with fatalities.    
+- **Economic prosperity** (log GDP per capita) positively correlates with happiness and negatively with road fatalities per million of population.    
 - **Happiness, safety, and prosperity** appear interconnected, forming a reinforcing triad.
 - For more details see my presentation: **`Does Happiness Drive Road Safety.pdf`** 
 
